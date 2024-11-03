@@ -57,7 +57,7 @@ export default {
   <Navbar />
   <div
     class="w-screen h-screen bg-cover bg-center bg-white flex flex-col items-center"
-    style="background-image: url('../../src/assets/moderninteriordesign.jpg')"
+    style="background-image: url('/assets/moderninteriordesign.jpg')"
   >
     <h1
       class="text-white text-4xl md:text-5xl font-bold mb-6 drop-shadow-lg pt-32 md:pt-64"

@@ -1,7 +1,7 @@
 <template>
   <div
     class="mx-auto w-screen h-screen bg-cover bg-center bg-white flex flex-col items-center"
-    style="background-image: url('../../src/assets/bed.png')"
+    style="background-image: url('/assets/bed.png')"
   >
     <h1 class="text-white text-5xl font-bold mb-6 drop-shadow-lg pt-[10%]">
       Work With Us
