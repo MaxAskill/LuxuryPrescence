@@ -1,5 +1,7 @@
 <template>
-  <div class="w-screen h-screen bg-cover bg-center flex flex-col justify-center relative">
+  <div
+    class="w-screen h-screen bg-cover bg-center flex flex-col justify-center relative mt-10"
+  >
     <div
       class="absolute inset-0 bg-cover bg-center"
       style="
