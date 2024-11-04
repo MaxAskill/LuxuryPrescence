@@ -2,7 +2,13 @@
   <div class="w-screen h-screen bg-cover bg-center flex flex-col justify-center relative">
     <div
       class="absolute inset-0 bg-cover bg-center"
-      style="background-image: url('/assets/meeting.png'); filter: blur(8px); z-index: 0"
+      style="
+        background-image: url('/assets/meeting.png');
+        filter: blur(8px);
+        z-index: 0;
+        background-color: rgba(0, 0, 255, 0.5);
+        background-blend-mode: multiply;
+      "
     ></div>
     <div class="relative z-10">
       <div class="grid grid-cols-2 gap-8 max-w-7xl mx-auto">
