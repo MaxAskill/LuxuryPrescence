@@ -6,7 +6,7 @@
         background-image: url('/assets/meeting.png');
         filter: blur(8px);
         z-index: 0;
-        background-color: rgba(0, 0, 255, 0.5);
+        background-color: rgba(31, 41, 55, 0.5);
         background-blend-mode: multiply;
       "
     ></div>
